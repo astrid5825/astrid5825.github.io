@@ -82,3 +82,9 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+.BLU{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #A7EAEA;
+}
