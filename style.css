@@ -76,6 +76,7 @@ a {
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    background-color: #EB175C;
 }
 
 .navbar-nav li a:hover {
